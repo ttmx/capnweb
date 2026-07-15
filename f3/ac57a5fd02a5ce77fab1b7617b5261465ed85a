@@ -1,0 +1,71 @@
+.changeset/config.json
+  s_9b3528e0fa7173::t_e890af479120da 13-16
+.changeset/readable-stream-chunk-types.md
+  s_9b3528e0fa7173::t_1723d27812e8e9 1-5
+.github/workflows/bonk-pr-review.yml
+  s_9b3528e0fa7173::t_5f823992aec7ed 30
+.github/workflows/bonk.yml
+  s_9b3528e0fa7173::t_0df13fdd5c3fd7 32
+.github/workflows/cla.yml
+  s_9b3528e0fa7173::t_58cd2375873d55 8-13,25-64
+.github/workflows/pkg-pr-new.yml
+  s_9b3528e0fa7173::t_2b8154975304d8 12,15,17
+.github/workflows/release.yml
+  s_9b3528e0fa7173::t_098a030ac4dcbf 3,23,27,29,47-67,75,79,81
+.github/workflows/semgrep.yml
+  s_9b3528e0fa7173::t_0d70efd1482ae4 19
+.github/workflows/test.yml
+  s_9b3528e0fa7173::t_53fff90d720b68 19,22,24
+CHANGELOG.md
+  s_9b3528e0fa7173::t_7e10f8e4cff100 3-33
+README.md
+  s_9b3528e0fa7173::t_a0ad698f6663a1 407-408,780-786
+__tests__/limits.test.ts
+  s_9b3528e0fa7173::t_5fd2d9a9fc7d70 1-265
+__tests__/test-server.ts
+  s_9b3528e0fa7173::t_efb17d01c532a6 53-60
+__type-tests__/accepted-types-coverage.test.ts
+  s_9b3528e0fa7173::t_461bfe519a5b93 2,62-63,95-98,108-112,135,170-171,207-208,228-229,259-262
+__type-tests__/rpc-types.test.ts
+  s_9b3528e0fa7173::t_6a18c413b97667 12,59,111-115
+package-lock.json
+  s_9b3528e0fa7173::t_37a673e0a7fa72 3,9,12,3773-3774,6965
+package.json
+  s_9b3528e0fa7173::t_c88b614c3cfe0c 3,34
+packages/capnweb-validate/package.json
+  s_9b3528e0fa7173::t_57a8f9e95fecf3 83
+protocol.md
+  s_9b3528e0fa7173::t_7f53938458a9a4 187-188
+src/batch.ts
+  s_9b3528e0fa7173::t_24e22aa68dc7ad 22,101,181-183
+src/index.ts
+  s_9b3528e0fa7173::t_3da9f10e87c40f 6-8,11,23-25,81,148-149,151,159
+src/map.ts
+  s_9b3528e0fa7173::t_ca0e5b057ea77c 6,299-306
+src/messageport.ts
+  s_9b3528e0fa7173::t_04f434527cf041 6,19-21,34-35,52,54,57,64,70,77,103
+src/rpc.ts
+  s_9b3528e0fa7173::t_8195718e3872d7 6,9-11,15-16,18-24,46-164,446-456,481-488,490-509,624,629,637,702-705,728-730,736-745,747-784,792,813,819-823,895-907,957-958,960,967-979,982-984,989,1008,1048,1052,1063,1082,1084,1125
+src/types.d.ts
+  s_9b3528e0fa7173::t_404658b1a98773 91
+src/websocket.ts
+  s_9b3528e0fa7173::t_1b993d2dc1b3ad 8-11,44-48,52-54,72,74,78,81,95-96,98,101,110,112,114,116,123,130-134,154-157
+vitest.config.ts
+  s_9b3528e0fa7173::t_1fc7de391054ba 19-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f3ac57a5fd02a5ce77fab1b7617b5261465ed85a",
+  "prompts": {},
+  "sessions": {
+    "s_9b3528e0fa7173": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f6533-9064-77db-8cc0-2c89d99a564a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}
